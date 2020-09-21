@@ -1,0 +1,6 @@
+include ':arouter_compiler'
+include ':arouter_api'
+include ':common'
+include ':arouter_annotation'
+include ':app'
+rootProject.name = "Modular"
